@@ -1,0 +1,7 @@
+D:\Программы\Server_TestTack2\Server_TestTack2\bin\Debug\Server_TestTack2.exe.config
+D:\Программы\Server_TestTack2\Server_TestTack2\bin\Debug\Server_TestTack2.exe
+D:\Программы\Server_TestTack2\Server_TestTack2\bin\Debug\Server_TestTack2.pdb
+D:\Программы\Server_TestTack2\Server_TestTack2\obj\Debug\Server_TestTack2.csproj.AssemblyReference.cache
+D:\Программы\Server_TestTack2\Server_TestTack2\obj\Debug\Server_TestTack2.csproj.CoreCompileInputs.cache
+D:\Программы\Server_TestTack2\Server_TestTack2\obj\Debug\Server_TestTack2.exe
+D:\Программы\Server_TestTack2\Server_TestTack2\obj\Debug\Server_TestTack2.pdb

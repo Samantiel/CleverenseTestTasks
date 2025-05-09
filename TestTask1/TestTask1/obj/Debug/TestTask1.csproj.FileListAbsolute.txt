@@ -1,0 +1,7 @@
+C:\Users\79299\source\repos\TestTask1\TestTask1\bin\Debug\TestTask1.exe.config
+C:\Users\79299\source\repos\TestTask1\TestTask1\bin\Debug\TestTask1.exe
+C:\Users\79299\source\repos\TestTask1\TestTask1\bin\Debug\TestTask1.pdb
+C:\Users\79299\source\repos\TestTask1\TestTask1\obj\Debug\TestTask1.csproj.AssemblyReference.cache
+C:\Users\79299\source\repos\TestTask1\TestTask1\obj\Debug\TestTask1.csproj.CoreCompileInputs.cache
+C:\Users\79299\source\repos\TestTask1\TestTask1\obj\Debug\TestTask1.exe
+C:\Users\79299\source\repos\TestTask1\TestTask1\obj\Debug\TestTask1.pdb

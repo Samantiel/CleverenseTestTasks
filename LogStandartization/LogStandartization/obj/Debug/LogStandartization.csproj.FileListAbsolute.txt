@@ -1,0 +1,7 @@
+D:\Программы\LogStandartization\LogStandartization\bin\Debug\LogStandartization.exe.config
+D:\Программы\LogStandartization\LogStandartization\bin\Debug\LogStandartization.exe
+D:\Программы\LogStandartization\LogStandartization\bin\Debug\LogStandartization.pdb
+D:\Программы\LogStandartization\LogStandartization\obj\Debug\LogStandartization.csproj.AssemblyReference.cache
+D:\Программы\LogStandartization\LogStandartization\obj\Debug\LogStandartization.csproj.CoreCompileInputs.cache
+D:\Программы\LogStandartization\LogStandartization\obj\Debug\LogStandartization.exe
+D:\Программы\LogStandartization\LogStandartization\obj\Debug\LogStandartization.pdb
